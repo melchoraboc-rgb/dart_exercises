@@ -1,0 +1,8 @@
+Customer: Melchor Aboc
+VIP Status: true
+Quantity: 5
+Total Price: ₱600.0
+Full Boxes: 2
+Leftover Items: 1
+Is Large Order? true
+Qualifies for Discount? true
